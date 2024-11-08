@@ -5,3 +5,11 @@
 .navbar{
     padding-left: 34px;
 }
+
+.avatar_photo{
+    width: 25px;
+}
+
+.dropdown_avatar{
+    width: 30px;
+}
